@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "857469939826",
+    "project_id": "assignment2-f42a1",
+    "storage_bucket": "assignment2-f42a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857469939826:android:76b16b139aa3b7fe9f12eb",
+        "android_client_info": {
+          "package_name": "au.utas.edu.rzhang14.assignment4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkdVswHu52tW34Qj3mbJO5-OB4OtuNCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857469939826:android:d456a12c0a84ba839f12eb",
+        "android_client_info": {
+          "package_name": "au.utas.edu.rzhang14.assignment4.assignment4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkdVswHu52tW34Qj3mbJO5-OB4OtuNCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857469939826:android:d639fac6144f121e9f12eb",
+        "android_client_info": {
+          "package_name": "rzhang14.utas.edu.au.assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkdVswHu52tW34Qj3mbJO5-OB4OtuNCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857469939826:android:4a6c2e699519232c9f12eb",
+        "android_client_info": {
+          "package_name": "utas.edu.au.kit721.assignment4.assignment4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkdVswHu52tW34Qj3mbJO5-OB4OtuNCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
