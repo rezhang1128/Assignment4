@@ -1,6 +1,6 @@
 # assignment4
 
-A new Flutter project.
+A Flutter project. Running in flutter environment.
 
 ## Getting Started
 
